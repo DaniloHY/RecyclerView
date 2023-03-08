@@ -18,6 +18,14 @@ public class MainActivity extends AppCompatActivity {
 
         lstFilmes = new ArrayList<>();
 
-        lstFilmes.add(new Filmes("Beast", "Caçando um leão a solta", "Drama, Suspense, Aventura e Ação", R.drawable.beast));
+        lstFilmes.add(new Filmes("Beast", "Caçando um leão a solta", "Drama e Suspense", R.drawable.beast));
+        lstFilmes.add(new Filmes("Croods", "Os croods", "Comédia e Ação", R.drawable.croods));
+        lstFilmes.add(new Filmes("Croods", "Os croods", "Comédia e Ação", R.drawable.croods));
+        lstFilmes.add(new Filmes("Croods", "Os croods", "Comédia e Ação", R.drawable.croods));
+        lstFilmes.add(new Filmes("Croods", "Os croods", "Comédia e Ação", R.drawable.croods));
+        lstFilmes.add(new Filmes("Croods", "Os croods", "Comédia e Ação", R.drawable.croods));
+        lstFilmes.add(new Filmes("Croods", "Os croods", "Comédia e Ação", R.drawable.croods));
+        lstFilmes.add(new Filmes("Croods", "Os croods", "Comédia e Ação", R.drawable.croods));
+
     }
 }

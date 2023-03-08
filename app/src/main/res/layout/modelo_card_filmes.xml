@@ -15,7 +15,7 @@
             android:id="@+id/id_imgLivro"
             android:layout_width="match_parent"
             android:layout_height="160dp"
-            android:background="#000000"
+            android:background="@drawable/beast"
             android:scaleType="centerCrop" />
 
         <TextView
@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:text="Titulo do Filme"
+            android:text="Beast"
             android:textColor="#000000"
             android:textSize="10sp"
             android:textStyle="bold" />
